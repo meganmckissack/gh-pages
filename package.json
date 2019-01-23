@@ -2,7 +2,7 @@
   "name": "react-gh-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://meganmckissack.github.io/react-gh-pages",
+  "homepage": "http://meganmckissack.github.io/gh-pages",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
