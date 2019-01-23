@@ -24,7 +24,7 @@ const AppRouter = () => (
 
       <Route path="/" exact component={Index} />
       <Route path="/about/" component={About} />
-      <Route path="/users/" component={Projects} />
+      <Route path="/projects/" component={Projects} />
     </div>
   </Router>
 );
