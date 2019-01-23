@@ -1,14 +1,13 @@
 {
-  "main.css": "/gh-pages/static/css/main.ba025882.chunk.css",
-  "main.js": "/gh-pages/static/js/main.3d7daa23.chunk.js",
-  "main.js.map": "/gh-pages/static/js/main.3d7daa23.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/gh-pages/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/gh-pages/static/js/1.fa92c112.chunk.js.map",
+  "main.css": "/gh-pages/static/css/main.34a0edd5.chunk.css",
+  "main.js": "/gh-pages/static/js/main.acddb84c.chunk.js",
+  "main.js.map": "/gh-pages/static/js/main.acddb84c.chunk.js.map",
+  "static/js/1.50b40596.chunk.js": "/gh-pages/static/js/1.50b40596.chunk.js",
+  "static/js/1.50b40596.chunk.js.map": "/gh-pages/static/js/1.50b40596.chunk.js.map",
   "runtime~main.js": "/gh-pages/static/js/runtime~main.bfabb4d8.js",
   "runtime~main.js.map": "/gh-pages/static/js/runtime~main.bfabb4d8.js.map",
-  "static/media/logo.svg": "/gh-pages/static/media/logo.5d5d9eef.svg",
-  "static/css/main.ba025882.chunk.css.map": "/gh-pages/static/css/main.ba025882.chunk.css.map",
+  "static/css/main.34a0edd5.chunk.css.map": "/gh-pages/static/css/main.34a0edd5.chunk.css.map",
   "index.html": "/gh-pages/index.html",
-  "precache-manifest.7a4abb4aec427f470c6904e828177a17.js": "/gh-pages/precache-manifest.7a4abb4aec427f470c6904e828177a17.js",
+  "precache-manifest.becf59714eaaa4e53a46d390343ad960.js": "/gh-pages/precache-manifest.becf59714eaaa4e53a46d390343ad960.js",
   "service-worker.js": "/gh-pages/service-worker.js"
 }
