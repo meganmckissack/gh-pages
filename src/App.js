@@ -1,9 +1,5 @@
 import React, { Component } from 'react';
-import {
-  BrowserRouter as Router,
-  Route,
-  Link
-} from 'react-router-dom';
+import { HashRouter, Route, Link} from 'react-router-dom';
 import FrontPage from './FrontPage';
 import About from './About';
 import Projects from './Projects';
@@ -14,9 +10,13 @@ class App extends Component {
   render() {
     return (
       <div>
-      <FrontPage />
       <Footer />
       <Header />
+      <HashRouter>
+        <Route exact path='/' component={FrontPage}/>
+        <Route path='/Projects' component={Projects}/>
+        <Route path='/About' component={About}/>
+      </HashRouter>
       </div>
     );
   }
