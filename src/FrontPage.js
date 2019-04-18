@@ -23,9 +23,6 @@ const headerContainer = {
   minHeight: '100vh',
 };
 
-const footerStyle = {
-
-};
 
 const FrontPage = () => (
   <div>
