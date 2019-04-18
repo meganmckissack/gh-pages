@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/gh-pages/static/media/civic-17-budget-web.660be45b.jpg"
   },
   {
-    "revision": "393395cab198f593faf0",
-    "url": "/gh-pages/static/css/main.9802e93f.chunk.css"
+    "revision": "ea21534e4d80643d20e4",
+    "url": "/gh-pages/static/css/main.27faf6a2.chunk.css"
   },
   {
     "revision": "e2273e21583a8f9862b652f2a8f32bd6",
     "url": "/gh-pages/static/media/demolition-map-web.e2273e21.png"
   },
   {
-    "revision": "b8557eed0d180533723e",
-    "url": "/gh-pages/static/js/1.b8557eed.chunk.js"
+    "revision": "de226d428a997be5d2cf",
+    "url": "/gh-pages/static/js/1.de226d42.chunk.js"
   },
   {
     "revision": "bfabb4d87b4c9845c6a9",
@@ -24,8 +24,12 @@ self.__precacheManifest = [
     "url": "/gh-pages/static/media/tree-fog.1ec68010.jpeg"
   },
   {
-    "revision": "393395cab198f593faf0",
-    "url": "/gh-pages/static/js/main.393395ca.chunk.js"
+    "revision": "ccaece10604e54a79364de7067bda99a",
+    "url": "/gh-pages/static/media/Megan_McKissack.ccaece10.jpg"
+  },
+  {
+    "revision": "ea21534e4d80643d20e4",
+    "url": "/gh-pages/static/js/main.ea21534e.chunk.js"
   },
   {
     "revision": "3cd013fabfd991898755d6560073b99e",
@@ -44,11 +48,11 @@ self.__precacheManifest = [
     "url": "/gh-pages/static/media/civic-17-transportation-web.e6d07fa9.jpg"
   },
   {
-    "revision": "b8557eed0d180533723e",
-    "url": "/gh-pages/static/css/1.04795018.chunk.css"
+    "revision": "de226d428a997be5d2cf",
+    "url": "/gh-pages/static/css/1.3f4c6285.chunk.css"
   },
   {
-    "revision": "cff309149fa07443add6293a5831beb5",
+    "revision": "43ed8696b64002d19b279276c4500e82",
     "url": "/gh-pages/index.html"
   }
 ];
