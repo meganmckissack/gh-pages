@@ -9,7 +9,7 @@ import About from './About';
 const Routes = () => (
   <HashRouter>
   <Switch>
-    <Route exact path='/' component={FrontPage}/>
+    <Route exact path='/FrontPage' component={FrontPage}/>
     <Route path='/Projects' component={Projects}/>
     <Route path='/About' component={About}/>
   </Switch>
