@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/gh-pages/static/media/civic-17-budget-web.660be45b.jpg"
   },
   {
-    "revision": "ea21534e4d80643d20e4",
+    "revision": "1d45744efe64831e01b2",
     "url": "/gh-pages/static/css/main.27faf6a2.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/gh-pages/static/media/Megan_McKissack.ccaece10.jpg"
   },
   {
-    "revision": "ea21534e4d80643d20e4",
-    "url": "/gh-pages/static/js/main.ea21534e.chunk.js"
+    "revision": "1d45744efe64831e01b2",
+    "url": "/gh-pages/static/js/main.1d45744e.chunk.js"
   },
   {
     "revision": "3cd013fabfd991898755d6560073b99e",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/gh-pages/static/css/1.3f4c6285.chunk.css"
   },
   {
-    "revision": "43ed8696b64002d19b279276c4500e82",
+    "revision": "137e8d6a4fd4fa173951f3ab6d123201",
     "url": "/gh-pages/index.html"
   }
 ];
