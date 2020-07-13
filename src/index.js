@@ -1,3 +1,6 @@
+import "assets/css/bootstrap.min.css";
+import "assets/css/paper-kit.css";
+import "assets/demo/demo.css";
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import React from 'react';
