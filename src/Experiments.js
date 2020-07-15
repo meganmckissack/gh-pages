@@ -7,34 +7,19 @@ import Col from 'react-bootstrap/Col';
 import Header from './Header';
 import Footer from './footer';
 
-const bioStyle ={
-  position: 'absolute',
-  transform: 'translateY(25%)',
-  padding: '1em',
-};
 
-const bioText = {
-  minHeight: '100vh',
-  display: 'flex',
-  alignItems: 'center',
-  padding: '2em',
-};
 
 const About = () => (
-  <React.Fragment>
-  <Header />
-  <Container>
-  <Row>
-    <Col xs={6} md={4}>
-      <Image style={bioStyle} src={BioImage} thumbnail />
-    </Col>
-    <Col xs={12} md={6} style={bioText}>
+    <React.Fragment>
+    <Header />
+  <div className='wrapper'>
+    <img src={BioImage} className='bio-image'/>
+    <div className='bio-text'>
     <p>Megan Mckissack is a frontend developer interested in open data,
        data visualization, and emerging technology.
     </p>
-    </Col>
-    </Row>
-    </Container>
+    </div>
+    </div>
     <Footer />
     </React.Fragment>
 );

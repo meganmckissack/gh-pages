@@ -1,4 +1,6 @@
 import React from "react";
+import Header from './Header';
+import Footer from './footer';
 import Card from 'react-bootstrap/Card';
 import CardDeck from 'react-bootstrap/CardDeck';
 import civicBudget from './img/civic-17-budget-web.jpg';
@@ -16,6 +18,7 @@ const cardDeckStyle ={
 
 const Projects = () => (
   <div>
+    <Header />
   <CardDeck style={cardDeckStyle}>
   <div>
   <h2>Hack Oregon</h2>
@@ -95,6 +98,7 @@ const Projects = () => (
           </Card>
             </div>
         </CardDeck>
+        <Footer />
     </div>
 );
 

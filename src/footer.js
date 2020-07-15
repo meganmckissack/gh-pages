@@ -22,8 +22,9 @@ const Footer = () => (
     <FontAwesomeIcon icon={faLinkedin} />
     </Navbar.Brand>
   </Container>
-</Navbar>;
+</Navbar>
   </div>
 );
 
 export default Footer;
+

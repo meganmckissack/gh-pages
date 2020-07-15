@@ -5,3 +5,30 @@
 .App .navbar-brand {
   font-weight: bold;
 }
+
+.wallpaper {
+  background-image: url('/img/tree-fog.jpeg');
+  background-size: cover;
+}
+
+.jumbotron{
+  height: 100vh;
+}
+
+.bio-image{
+  width:25%;
+  padding:1em;
+}
+
+.bio-text{
+  width:40%;
+  padding:1em;
+}
+
+
+.wrapper {
+  height: 75vh; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

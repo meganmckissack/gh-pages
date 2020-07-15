@@ -26,7 +26,6 @@ const headerContainer = {
 
 const FrontPage = () => (
   <div>
-  <Image style={headerContainer} responsive src={HeaderImage} />
   <Container style={headerText}>
   <h1>Megan McKissack</h1>
   <p>Front-end developer and creative coder interested in data visualization</p>
