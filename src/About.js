@@ -1,42 +1,46 @@
 import React from "react";
-import Image from 'react-bootstrap/Image';
-import Container from 'react-bootstrap/Container';
 import BioImage from './img/Megan_McKissack.jpg';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
 import Header from './Header';
-import Footer from './footer';
 
-const bioStyle ={
-  position: 'absolute',
-  transform: 'translateY(25%)',
-  padding: '1em',
-};
-
-const bioText = {
-  minHeight: '100vh',
-  display: 'flex',
-  alignItems: 'center',
-  padding: '2em',
-};
 
 const About = () => (
   <React.Fragment>
-  <Header />
-  <Container>
-  <Row>
-    <Col xs={6} md={4}>
-      <Image style={bioStyle} src={BioImage} thumbnail />
-    </Col>
-    <Col xs={12} md={6} style={bioText}>
-    <p>Megan Mckissack is a frontend developer interested in open data,
-       data visualization, and emerging technology.
-    </p>
-    </Col>
-    </Row>
-    </Container>
-    <Footer />
-    </React.Fragment>
+    <Header />
+  <div className="main-wrapper">
+		<section className="about-me-section p-3 p-lg-5 theme-bg-light">
+			<div className="container">
+				<div className="profile-teaser media flex-column flex-lg-row">
+						<div className="media-body">
+						<h2 className="name font-weight-bold mb-1">Megan McKissack</h2>
+						<div className="tagline mb-3">Frontend Developer and Creative Coder</div>
+						<div className="bio mb-4">I'm a frontend developer interested in open data, data visualization, and emerging creative technology.
+            <h4 className="font-weight-bold mt-5">Contact</h4>
+			    <div className="intro">
+			    <p>Send me an email at <a href="mailto:#">meganmckissack@gmail.com</a></p>
+          </div>
+						</div>
+					</div>
+					<img className="profile-image mb-3 mb-lg-0 ml-lg-5 mr-md-0" src={BioImage} alt="headshot"></img>
+				</div>
+			</div>
+		</section>
+
+    <section class="overview-section p-3 p-lg-5">
+			<div class="container">
+        <p>
+          <br></br>
+          <br></br>
+        </p>
+      </div>
+    </section>
+
+  </div>
+  </React.Fragment>
 );
 
-export default About;
+
+		
+  export default About;
+		
+		
+		

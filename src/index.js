@@ -1,5 +1,7 @@
-import "./assets/css/bootstrap.min.css";
 import "./assets/css/theme-1.css";
+import "./assets/css/bootstrap.min.css";
+import "./assets/css/fontawesome.css";
+import "./assets/css/svg-with-js.css";
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import React from 'react';
